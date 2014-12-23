@@ -1,0 +1,21 @@
+<zk>
+	<separator/>
+	<window title="Timeline of Solar System exploration" 
+			apply="org.zkoss.ztimelinedemo.SolarSystemExplorationTimelineComposer" 
+			height="100%" width="80%" border="2" style="margin:0 auto">
+	    <vlayout>
+	    	<hlayout>
+	    		<label value="Current viewport: "/><div><label id="viewportLeft" /> ~ <label id="viewportRight" /></div>
+	    	</hlayout>
+			<hlayout>
+				<label value="Solar System Exploration Event: "/><div><label id="eventDetail" value=""/></div>
+			</hlayout>
+			<separator/>
+			<timeline id="timeline" height="300px" tooltip="pop, position=after_pointer"/>
+		</vlayout>
+		<popup id="pop">
+			<label />
+		</popup>
+		<separator/>
+	</window>	
+</zk>

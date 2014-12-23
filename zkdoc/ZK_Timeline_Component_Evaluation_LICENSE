@@ -1,0 +1,147 @@
+﻿ZK Trial License Agreement
+
+PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING OR INSTALLING THE SOFTWARE.
+BY DOWNLOADING, INSTALLING OR USING THE SOFTWARE, YOU ARE AGREEING TO BE BOUND BY
+THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT ACCEPT THE TERMS OF THIS
+AGREEMENT, THEN YOU MUST NOT DOWNLOAD, INSTALL OR USE THE SOFTWARE.
+This ZK Trial License Agreement ("Agreement") is a legal agreement between you 
+(either and individual or an entity) (“You”) and Potix Corporation (“Potix”).
+This Agreement governs Your trial use of the Software (as defined below) and is
+effective upon the first date of installation or use of the Software
+(“Effective Date”).
+
+1. Definitions.
+1.1 "Software" means the object code for the ZK Graphics Component
+software product available for download on the Potix Website (except software
+that may be downloaded from the ZK Website pursuant to the General Public License
+(GPL) or Lesser General Public License (LGPL), which shall be governed by the GPL
+or LGPL) during the Trial Period. For avoidance of doubt, nothing in this Agreement
+gives You any rights to receive updates of the Software from Potix.
+1.2 "Developer Product" means Your software application developed with the Software.
+1.3 “Potix Website” means the website located at http://www.zkoss.org.
+
+2. Evaluation License Grant. 
+Subject to the terms and conditions of this Agreement, Potix hereby grants to
+You an internal, royalty-free, non-exclusive, non-transferable and
+non-sublicensable license during the Trial Period to download (from the Potix
+Website), install, execute and use the Software solely for non-production, internal
+testing and evaluation to determine whether You wish to use the Software on a
+commercial basis.
+
+3. Restrictions.
+You shall not, and shall not allow any third party to: 
+3.1 cause or permit reverse engineering, disassembly or decompilation of the Software; 
+3.2 modify or create derivative works of the Software; 
+3.3 remove, alter or obscure any proprietary notices which appear in the Software; 
+3.4 charge Your customers for use of the Software; 
+3.5 use the Software for internal production purposes or disaster recovery; 
+3.6 distribute, sublicense or otherwise transfer the Software to any third party; 
+3.7 use any Potix name, trademark or logo in the names of the Developer Product
+or in a way that suggests the Developer Product was sold by or endorsed by Potix. 
+
+4. Term and Termination. 
+The term of this Agreement will begin on the Effective Date and will continue
+until terminated by either party under this Section; except that the rights granted
+under Section 2 (Evaluation License Grant) will terminate after sixty (60) days
+after the Effective Date (the "Trial Period"). You hereby agree that it may only
+license Software under Section 2 of this Agreement (Evaluation License Grant)
+for one (1) Trial Period. Potix may terminate this Agreement at any time if You
+fails to comply with the terms and conditions of this Agreement. You may terminate
+this Agreement by ending all use of the Software and destroying all copies of the
+Software in Your possession or control. Upon termination of this Agreement for
+any reason, all license rights granted in this Agreement will immediately
+terminate, and You must promptly stop all use of the Software and must delete
+all copies of the Software.
+
+5. Proprietary Rights. 
+The intellectual property and proprietary rights of whatever nature in the Software
+(including but not limited to all copyright, trade secret, trademark, patent
+rights), including derivative works, are and shall remain the exclusive property
+of Potix and its suppliers, if any. Except for the rights expressly granted by
+Potix to You under this Agreement, (i) Potix and its suppliers, if any, reserve
+all right, title and interest in and to the Software and all intellectual property
+rights therein and (ii) no right, title, ownership interest or license in or to
+the Software, whether by implication, estoppel or otherwise, is granted, assigned
+or transferred to You under or in connection with this Agreement.
+
+6. Confidentiality. 
+The Software is the confidential and proprietary information of Potix. You agree
+to take adequate steps, with no less than a reasonable degree of care, to protect
+the Software from unauthorized disclosure or use. You acknowledge that the
+Software contains valuable trade secrets and proprietary information of Potix
+and that any actual or threatened disclosure or misapplication of such Software
+will constitute immediate and irreparable harm to Potix for which monetary
+damages would be an inadequate remedy and for which Potix will be entitled to
+seek injunctive relief. You shall not, and shall not allow any third party to,
+use the Software except as expressly authorized under this Agreement.
+
+7. No Support or Warranty. 
+You understand that the Software is provided solely for Your internal evaluation
+purposes and Potix will not provide support for the Software. POTIX IS PROVIDING
+THE SOFTWARE "AS IS" AND POTIX MAKES NO OTHER WARRANTIES WITH RESPECT TO THE
+SOFTWARE OR ANY OTHER MATERIAL OR INFORMATION PROVIDED HEREUNDER. POTIX HEREBY
+DISCLAIMS ALL OTHER WARRANTIES, WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING
+THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE,
+TITLE AND NON-INFRINGEMENT. POTIX DOES NOT WARRANT THAT ANY SOFTWARE WILL BE
+PROVIDED ERROR FREE, WILL OPERATE WITHOUT INTERRUPTION OR WILL FULFILL YOUR
+REQUIREMENTS. TO THE EXTENT THAT POTIX CANNOT DISCLAIM ANY SUCH WARRANTY AS A
+MATTER OF APPLICABLE LAW, THE SCOPE AND DURATION OF SUCH WARRANTY WILL BE THE
+MINIMUM REQUIRED UNDER SUCH LAW.
+8. Limitation of Liability. 
+IN NO EVENT WILL POTIX BE LIABLE FOR: (I) ANY CONSEQUENTIAL, INDIRECT, EXEMPLARY
+, SPECIAL OR INCIDENTAL DAMAGES, INCLUDING ANY LOST DATA, LOST USE, OR LOST
+PROFITS, ARISING FROM OR RELATING TO THIS AGREEMENT UNDER ANY LEGAL THEORY, EVEN
+IF POTIX HAS BEEN ADVISED OF, KNOWS OF, OR SHOULD KNOW OF THE POSSIBILITY OF
+SUCH DAMAGES, AND (II) FOR ANY CLAIM ATTRIBUTABLE TO ERRORS, OMISSIONS OR OTHER
+INACCURACIES IN THE SOFTWARE. POTIX’S TOTAL CUMULATIVE LIABILITY IN CONNECTION
+WITH THIS AGREEMENT AND THE SOFTWARE, WHETHER IN CONTRACT, TORT, OR OTHERWISE,
+WILL NOT EXCEED ONE HUNDRED DOLLARS (US$100.00). THIS LIMITATION OF LIABILITY
+WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED
+REMEDY SET FORTH HEREIN.
+
+9. Indemnification. 
+You hereby agrees to indemnify Potix harmless against any and all damages,
+judgments, and costs (including but not limited to reasonable attorneys fees)
+incurred by Potix as a result of Your use or distribution of Developer Products,
+including any claims alleging that any Developer Products infringe the
+intellectual property rights of a third party.
+
+10. General.
+10.1 Assignment. You shall not assign or delegate its rights under this
+Agreement without the prior written consent of Potix. Subject to the foregoing,
+this Agreement shall bind and inure to the benefit of the successors and
+permitted assigns of the parties. 
+10.2 Relationship of Parties. The parties hereto are independent contractors.
+Nothing in this Agreement shall be deemed to create an agency, employment,
+partnership, fiduciary or joint venture relationship between the parties.
+Neither party has the power or authority as agent, employee or in any other
+capacity to represent, act for, bind or otherwise create or assume any
+obligation on behalf of the other party for any purpose whatsoever. There are no
+third party beneficiaries to this Agreement. 
+10.3 Governing Law and Venue. This Agreement will be governed by the laws of the
+State of California in the United States of America, without giving effect to
+any conflicts or choice of laws principles that would require the application of
+the laws of a different jurisdiction. Any action or proceeding arising from or
+relating to this Agreement must be brought exclusively in state court in Santa
+Clara County, California, and each party irrevocably submits to the exclusive
+personal jurisdiction and venue of any such court in any such action or
+proceeding. In the event of any dispute in connection with this Agreement,
+the English language version of the Agreement will control for all purposes.
+Any action brought under this Agreement shall be conducted in the English
+language.
+10.4 Survival. Section 4 (Term and Termination), 5 (Proprietary Rights),
+6 (Confidentiality), 7 (No Support or Warranty), 8 (Limitation of Liability),
+9 (Indemnification) and 10 (General) will survive the termination of this
+Agreement.
+10.5 Entire Agreement. This Agreement constitutes the entire agreement between
+the parties regarding the subject hereof and supersedes all prior or
+contemporaneous agreements, understandings and communications, whether written
+or oral. This Agreement may be amended only by a written document signed by both
+parties.
+10.6 Severability and Waiver. If any provision of this Agreement is adjudicated
+to be unenforceable, such provision will be changed and interpreted to
+accomplish the objectives of such provision to the greatest extent possible
+under applicable law and the remaining provisions will continue in full force
+and effect. All waivers must be in writing. Any waiver or failure to enforce
+any provision of this Agreement on one occasion will not be deemed a waiver of
+any other provision or of such provision on any other occasion.
