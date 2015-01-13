@@ -10,8 +10,8 @@ These two axises are synchronized in scrolling. You can easily zoom in the main 
 
 Here is the [demo article](http://blog.zkoss.org/index.php/2015/01/13/introducing-new-zk-addon-zk-timeline/)
 
-###Demo
-* [zk timeline demo](http://www.zkoss.org/zktimelinedemo/)
+###Live Demo
+* Get a hands on experience [here](http://www.zkoss.org/zktimelinedemo/) !
 
 ###Download
 
