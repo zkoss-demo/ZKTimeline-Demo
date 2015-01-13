@@ -8,7 +8,7 @@ The timeline is used to visualize events in time, and these events can be placed
 A timeline contains two axises, called main axis and sub axis(sub axis can be hidden), you can scroll in the timeline by dragging and using the mouse scroll-wheel.
 These two axises are synchronized in scrolling. You can easily zoom in the main axis by dragging the bar in the sub axis, and zoom in the sub axis by pressing the zoom in/zoom out icon on the left side of the sub axis.
 
-Here is the [demo article](http://blog.zkoss.org/)
+Here is the [demo article](http://blog.zkoss.org/index.php/2015/01/13/introducing-new-zk-addon-zk-timeline/)
 
 ###Download
 
