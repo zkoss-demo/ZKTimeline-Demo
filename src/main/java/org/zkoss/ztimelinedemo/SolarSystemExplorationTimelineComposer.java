@@ -308,8 +308,8 @@ public class SolarSystemExplorationTimelineComposer extends GenericForwardCompos
 //			timeline.setSubViewportLeftTime(_sdf.parse("1/1/1995").getTime());
 //			timeline.setSubViewportRightTime(_sdf.parse("1/12/1998").getTime());
 			
-			timeline.setMinViewPeriodLevel(Util.DAY_LEVEL);
-			timeline.setMaxViewPeriodLevel(Util.YEAR_LEVEL);
+			timeline.setMinViewPeriodLevel(Util.YEAR_LEVEL);
+			timeline.setMaxViewPeriodLevel(Util.DAY_LEVEL);
 			viewportLeft.setValue(_sdf1.format(left));
 			viewportRight.setValue(_sdf1.format(right));
 		} catch (ParseException e) {
