@@ -69,7 +69,7 @@
 	  <dependency>
 	    <groupId>org.zkoss</groupId>
 	    <artifactId>timeline</artifactId>
-	    <version>0.8.0</version>
+	    <version>0.8.0.FL.20150310</version>
 	  </dependency>
 	</dependencies>
 	<build>
