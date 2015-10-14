@@ -1,4 +1,4 @@
-package org.zkoss.ztimelinedemo;
+package org.zkoss.timeline.demo;
 
 public class Country {
 	private String name;

@@ -1,7 +1,7 @@
 <zk>
 	<separator/>
 	<window title="Timeline of Solar System exploration" 
-			apply="org.zkoss.ztimelinedemo.SolarSystemExplorationTimelineComposer" 
+			apply="org.zkoss.timeline.demo.SolarSystemExplorationTimelineComposer"
 			height="100%" width="80%" border="2" style="margin:0 auto">
 	    <vlayout>
 	    	<hlayout>
@@ -17,5 +17,7 @@
 			<label />
 		</popup>
 		<separator/>
+        <button id="next" label="next" />
+        <button id="unselect" label="unselect" />
 	</window>	
 </zk>

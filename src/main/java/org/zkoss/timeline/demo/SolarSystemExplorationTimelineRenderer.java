@@ -1,4 +1,4 @@
-package org.zkoss.ztimelinedemo;
+package org.zkoss.timeline.demo;
 
 import java.util.ArrayList;
 import java.util.List;

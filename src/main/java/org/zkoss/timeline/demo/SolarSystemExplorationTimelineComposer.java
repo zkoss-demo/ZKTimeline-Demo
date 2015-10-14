@@ -1,4 +1,4 @@
-package org.zkoss.ztimelinedemo;
+package org.zkoss.timeline.demo;
 
 import java.math.BigDecimal;
 import java.text.ParseException;
@@ -8,7 +8,6 @@ import java.util.*;
 import org.zkoss.timeline.Timeline;
 import org.zkoss.timeline.api.TimelineRenderer;
 import org.zkoss.timeline.event.TimelineEvent;
-import org.zkoss.timeline.impl.SimpleTimelineEvent;
 import org.zkoss.timeline.impl.SimpleTimelineModel;
 import org.zkoss.timeline.impl.Util;
 import org.zkoss.zk.ui.Component;
@@ -341,5 +340,18 @@ public class SolarSystemExplorationTimelineComposer extends GenericForwardCompos
 		}
 	}
 	
-	
+	public void onClick$next(ForwardEvent evt) {
+        Iterator<Object> it = timeline.getModel().getSelection().iterator();
+        if (it.hasNext()) {
+            SolarSystemExplorationEvent current = (SolarSystemExplorationEvent) it.next();
+            List<Object> events = timeline.getModel().getElementsByRange(current.getStartDate(), new Date(timeline.getMaxTimeBound()));
+            int index = events.indexOf(current);
+            if (index + 1 < events.size()) {
+                timeline.getModel().addToSelection(events.get(index + 1));
+            }
+        }
+    }
+    public void onClick$unselect(ForwardEvent evt) {
+        timeline.getModel().clearSelection();
+    }
 }
